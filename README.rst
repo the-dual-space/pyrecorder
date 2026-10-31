@@ -13,7 +13,7 @@
    :target: https://www.apache.org/licenses/LICENSE-2.0
 
 
-.. |logo| image:: https://github.com/anyoptimization/pyrecorder/blob/master/docs/source/_static/pyrecorder.png
+.. |logo| image:: https://github.com/the-dual-space/pyrecorder/blob/master/docs/source/_static/pyrecorder.png
   :target: https://anyoptimization.com/projects/pyrecorder/
   :alt: pyrecorder
 
